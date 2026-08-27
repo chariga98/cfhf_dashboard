@@ -1,2 +1,0 @@
- ``` # Sensitive data - never commit Data/*.xlsx Data/*.xls Data/*.csv # Python environment / cache venv/ __pycache__/ *.pyc # OS/editor clutter .DS_Store .vscode/ ``` 
- Data/CFHF.Data.Stacked.xlsx
